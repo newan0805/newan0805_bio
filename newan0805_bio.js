@@ -23,5 +23,6 @@
   "projects": {
     "image": "https://raw.githubusercontent.com/newan0805/newan0805_bio/refs/heads/main/planet.jpg",
     "description": "This project showcases my skills and expertise in software development, particularly in network systems engineering and cybersecurity. It features a clean and responsive design, highlighting my professional journey, projects, and contact information. The site pulls data dynamically from an API, ensuring that content is always up to date. Users can easily navigate through sections like About Me, Projects, and Social Links, making it a comprehensive overview of my work and experience."
-  }
+  },
+  "developer": "Newan Kumanayaka"
 }
