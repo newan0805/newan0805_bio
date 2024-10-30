@@ -7,7 +7,7 @@
     {
       "platform": "Gmail",
       "url": "mailto:newan0805@gmail.com",
-      "icon": "FaGmail"
+      "icon": "FaMailchimp"
     },
     {
       "platform": "Linkedin",
