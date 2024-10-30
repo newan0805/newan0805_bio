@@ -1,7 +1,7 @@
 {
   "name": "test",
   "bio": "test",
-  "image": "https://github.com/newan0805/newan0805_bio/blob/main/1640686871560.jpeg",
+  "image": "https://raw.githubusercontent.com/newan0805/newan0805_bio/refs/heads/main/1640686871560.jpeg",
   "description": "test",
   "social": [
     {
