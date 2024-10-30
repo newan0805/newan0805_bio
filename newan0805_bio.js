@@ -1,6 +1,7 @@
 {
   "name": "",
   "bio": "",
+  "image": "",
   "description": "",
   "social": [
     {
