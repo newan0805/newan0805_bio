@@ -2,7 +2,7 @@
   "name": "Newan Kumanayaka",
   "bio": "Associate Software Engineer | Bachelor of Science in Network Systems Engineering",
   "image": "https://raw.githubusercontent.com/newan0805/newan0805_bio/refs/heads/main/1640686871560.jpeg",
-  "description": "As an Associate Software Engineer at E Gravity Solutions, I immerse myself in developing innovative software solutions that align with our organizational objectives. With an ongoing Bachelor of Science in Network Systems Engineering at the University of Sunderland, my academic insights enhance our team's capabilities in tackling complex technological challenges. Leadership and robotics are pivotal in our pursuit of excellence; these skills, coupled with a foundation in software development, enable us to deliver high-quality projects. Our collaborative approach, grounded in effective communication, has been instrumental in driving project success and fostering a culture of innovation within our team.",
+  "description": "As an Associate Software Engineer at E Gravity Solutions, I immerse myself in developing innovative software solutions that align with our organizational objectives. With an ongoing Bachelor of Science in Network Systems Engineering at the University of Sunderland, my academic insights enhance our team's capabilities in tackling complex technological challenges. Leadership and robotics are pivotal in our pursuit of excellence; these skills, coupled with a foundation in software development.",
   "social": [
     {
       "platform": "Gmail",
